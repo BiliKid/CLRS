@@ -1,2 +1,3 @@
 # CLRS
-solutions of CLRS exercises
+Solutions of CLRS exercises.  
+It's sad that GFM doesn't support latex's formula syntax.
